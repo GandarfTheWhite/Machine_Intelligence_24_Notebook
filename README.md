@@ -6,8 +6,8 @@ A part of the assigment was to write the python implementation of a genetic algo
 Question 1. Genetic algorithms
 A small company has 13 employees (E1 … E13) available for assignment to 10 tasks (see table below). Any person can be assigned to any task and each task requires processing by only one person. The table below shows how well each person performs in each task. For instance, Employee 1 (E1) performs better on Task 1 (T1) then on Task 2 (T2).
 
-|T1|T2|T3|T4|T5|T6|T7|T8|T9|T10|
-|--|--|--|--|--|--|--|--|--|---|
+|--|T1|T2|T3|T4|T5|T6|T7|T8|T9|T10|
+|--|--|--|--|--|--|--|--|--|--|---|
 |E1|55|30|20|20|24|24|18|33|35|29|
 |E2|14|14|22|34|26|19|22|29|22|19|
 |E3|22|16|21|27|35|25|30|22|23|23|
